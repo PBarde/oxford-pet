@@ -1,0 +1,3 @@
+from take_home env
+
+pip install Albumentation
